@@ -1,3 +1,34 @@
 body {
-    background-color: deeppink;
+    background-color: chocolate;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+    font-size: 2.8em;
+    color: antiquewhite;
+    margin-left: 666px;
+}
+
+h6 {
+    margin-top: 1000px;
+    margin-left: 666px;
+}
+
+.BUB {
+
+    display: block;
+    position: relative;
+    bottom: 1000px; left: 11px;
+    width: 888px;
+    border-radius: 13px;
+    
+}
+
+::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    color: aquamarine;
 }
